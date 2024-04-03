@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import numpy as np
-st.title('Book Recommender System')
+st.title('Book Recommendation System')
 model = pickle.load(open('model.pkl','rb'))
 book_pivot = pd.read_csv('pivot.csv')
 book_img = pd.read_csv('book_img.csv')
