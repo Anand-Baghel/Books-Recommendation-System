@@ -1,17 +1,18 @@
 # Book Recommender System
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Recommender%20System-brightgreen)](https://movie-recommender-1.streamlit.app/)
-[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-Book%20Recommender%20System-green)](https://github.com/rajatrawal/book-recommender-system-1)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Recommender%20System-brightgreen)](https://books-recommendation-systemgit-ab.streamlit.app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-Book%20Recommender%20System-green)](https://github.com/Anand-Baghel/Books-Recommendation-System)
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-[![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
+[![VScode](https://img.shields.io/badge/vscode1.87.2-blue)](https://code.visualstudio.com/download)
+[![Python](https://img.shields.io/badge/Python-3.12.1-blue)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-blue)](https://scikit-learn.org/stable/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.19-blue)](https://numpy.org/)
-[![pandas](https://img.shields.io/badge/pandas-1.2-blue)](https://pandas.pydata.org/)
+[![pandas](https://img.shields.io/badge/pandas-2.2.1-blue)](https://pandas.pydata.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-0.80-blue)](https://www.streamlit.io/)
 
 
-Welcome to the "Book Recommender System" project! This collaborative recommender system uses the K-Nearest Neighbors (KNN) algorithm to recommend books based on user preferences. Explore new books you'll love!
+Welcome to the "Book Recommendation System" project! This collaborative recommender system uses the K-Nearest Neighbors (KNN) algorithm to recommend books based on user preferences. Explore new books you'll love!
 
 ## About This Project
 
@@ -25,11 +26,10 @@ The "Book Recommender System" uses a powerful algorithm called K-Nearest Neighbo
 
 ## Preview of Project
 
-![Capture](https://github.com/rajatrawal/book-recommender-system-1/assets/72153827/5adbd60f-b9d7-4631-9588-19d66aad66df)
 
 ## Explore the Project
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Recommender%20System-brightgreen)](https://movie-recommender-1.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Recommender%20System-brightgreen)](https://github.com/Anand-Baghel/Books-Recommendation-System)
 
 ### Features
 
@@ -61,7 +61,7 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine using this command:
 
    ```shell
-   git clone https://github.com/rajatrawal/book-recommender-system-1.git
+   git clone https://github.com/Anand-Baghel/Books-Recommendation-System.git
    ```
 
 2. Navigate to the project directory:
@@ -88,10 +88,10 @@ To run this project locally, follow these steps:
 
 ## Discover Your Next Great Read
 
-Explore the "Book Recommender System" and discover new books that match your interests. Dive into the world of literature with personalized book recommendations. Visit the [Live Demo](https://movie-recommender-1.streamlit.app/) and embark on a reading adventure.
+Explore the "Book Recommender System" and discover new books that match your interests. Dive into the world of literature with personalized book recommendations. Visit the [Live Demo](https://books-recommendation-systemgit-ab.streamlit.app/) and embark on a reading adventure.
 
 ## Contribute
 
-If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on [GitHub](https://github.com/rajatrawal/book-recommender-system-1).
+If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on [GitHub](https://books-recommendation-systemgit-ab.streamlit.app/).
 
 Thank you for exploring the "Book Recommender System"! We hope this system enriches your reading experience. 📚🌟
