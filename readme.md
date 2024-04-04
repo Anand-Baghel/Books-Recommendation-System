@@ -2,7 +2,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Recommender%20System-brightgreen)](https://books-recommendation-systemgit-ab.streamlit.app/)
 [![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-Book%20Recommender%20System-green)](https://github.com/Anand-Baghel/Books-Recommendation-System)
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub License](https://img.shields.io/badge/license-UECU-blue.svg)](LICENSE)
 
 [![VScode](https://img.shields.io/badge/vscode1.87.2-blue)](https://code.visualstudio.com/download)
 [![Python](https://img.shields.io/badge/Python-3.12.1-blue)](https://www.python.org/)
